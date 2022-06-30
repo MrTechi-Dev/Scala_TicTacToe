@@ -7,7 +7,7 @@ Simple Scala 3
 1. Clone this repository to any destination path you want
     
 2. Open terminal and navigate to this directory:
-   ````bash
+   ```bash
     $ Your path in your local machine
    ```
 4. Compile project:
