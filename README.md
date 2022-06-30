@@ -4,7 +4,7 @@ Simple Scala 3
 
 ## Project Setup
 
-1. Clone this repository to any destination path you want (for example '~/Downloads/tic-tac-toe').
+1. Clone this repository to any destination path you want
 
 2. Open terminal and navigate to this directory:
    ```
