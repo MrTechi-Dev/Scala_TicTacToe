@@ -1,0 +1,9 @@
+.bloop
+.bsp
+.idea
+.vscode
+.metals
+LICENCE
+src/test
+
+target
